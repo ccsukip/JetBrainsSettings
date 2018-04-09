@@ -1,0 +1,10 @@
+<code_scheme name="Tower" version="173">
+  <option name="AUTODETECT_INDENTS" value="false" />
+  <JSCodeStyleSettings>
+    <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
+    <option name="FORCE_SEMICOLON_STYLE" value="true" />
+  </JSCodeStyleSettings>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
+</code_scheme>
