@@ -46,7 +46,7 @@
           <IdeaActionID>Tool_External Tools_ESLint Fix</IdeaActionID>
           <ShortCut>'⌘\'</ShortCut>
           <Description>ESLint Fix</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find">
@@ -182,7 +182,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>133</Count>
+          <Count>134</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
