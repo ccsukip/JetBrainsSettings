@@ -22,7 +22,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy</Description>
-          <Count>27</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -39,6 +39,14 @@
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
           <Count>19</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="ESLint Fix">
+        <Item>
+          <IdeaActionID>Tool_External Tools_ESLint Fix</IdeaActionID>
+          <ShortCut>'⌘\'</ShortCut>
+          <Description>ESLint Fix</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find">
@@ -86,7 +94,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'⌘V'</ShortCut>
           <Description>Paste</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -174,7 +182,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>132</Count>
+          <Count>133</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
