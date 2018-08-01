@@ -18,6 +18,6 @@
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="Tool_External Tools_ESLint Fix">
-    <keyboard-shortcut first-keystroke="meta back_slash" />
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
 </keymap>
