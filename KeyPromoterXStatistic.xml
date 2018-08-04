@@ -78,7 +78,7 @@
           <IdeaActionID>Tool_External Tools_ESLint Fix</IdeaActionID>
           <ShortCut>'⌘\'</ShortCut>
           <Description>ESLint Fix</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find">
@@ -302,7 +302,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>160</Count>
+          <Count>161</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -310,7 +310,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>40</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
@@ -326,7 +326,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>159</Count>
+          <Count>160</Count>
         </Item>
       </Statistic>
     </option>
