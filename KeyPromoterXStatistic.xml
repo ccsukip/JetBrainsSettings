@@ -110,7 +110,7 @@
           <IdeaActionID>Javascript.Linters.EsLint.Fix</IdeaActionID>
           <ShortCut>'⌃⌘L'</ShortCut>
           <Description>Fix ESLint Problems</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -182,7 +182,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'auth.test.js'</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'department.test.js'">
@@ -238,7 +238,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'auth.test.js'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'department.test.js'">
