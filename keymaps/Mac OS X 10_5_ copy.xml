@@ -1,4 +1,7 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="ctrl meta l" />
+  </action>
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
@@ -16,8 +19,5 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
-  </action>
-  <action id="Tool_External Tools_ESLint Fix">
-    <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
 </keymap>

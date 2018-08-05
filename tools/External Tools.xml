@@ -1,5 +1,5 @@
 <toolSet name="External Tools">
-  <tool name="ESLint Fix" description="Automatically fix issue with locally installed ESLint" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="ESLint Fix" description="Automatically fix issue with locally installed ESLint" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="./node_modules/.bin/eslint" />
       <option name="PARAMETERS" value="--fix &quot;$FilePathRelativeToProjectRoot$&quot;" />
