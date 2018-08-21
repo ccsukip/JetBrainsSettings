@@ -254,7 +254,7 @@
           <IdeaActionID>RevealIn</IdeaActionID>
           <ShortCut>'⌥R'</ShortCut>
           <Description>Reveal in Finder</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -446,7 +446,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>204</Count>
+          <Count>207</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -470,7 +470,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>197</Count>
+          <Count>201</Count>
         </Item>
       </Statistic>
     </option>
