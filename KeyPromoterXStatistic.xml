@@ -385,6 +385,14 @@
           <Count>13</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Show Grid">
+        <Item>
+          <IdeaActionID>Images.Editor.ToggleGrid</IdeaActionID>
+          <ShortCut>'⌘''</ShortCut>
+          <Description>Show Grid</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Show Source">
         <Item>
           <IdeaActionID>ViewSource</IdeaActionID>
