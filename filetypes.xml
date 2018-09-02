@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping ext="swig" type="HTML" />
+      <mapping pattern="params-filter.js" type="PLAIN_TEXT" />
       <mapping ext="wpy" type="Vue.js" />
     </extensionMap>
   </component>
