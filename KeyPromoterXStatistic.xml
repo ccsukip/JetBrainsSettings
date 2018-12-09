@@ -30,7 +30,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy</Description>
-          <Count>69</Count>
+          <Count>70</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -582,7 +582,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>97</Count>
+          <Count>98</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
