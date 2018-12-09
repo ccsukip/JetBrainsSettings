@@ -2,7 +2,7 @@
   <action id="CompareTwoFiles" />
   <action id="FileChooser.GotoDesktop" />
   <action id="Javascript.Linters.EsLint.Fix">
-    <keyboard-shortcut first-keystroke="ctrl meta l" />
+    <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="alt r" />
