@@ -358,7 +358,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>165</Count>
+          <Count>166</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -622,7 +622,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>443</Count>
+          <Count>444</Count>
         </Item>
       </Statistic>
     </option>
