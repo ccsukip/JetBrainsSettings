@@ -198,7 +198,7 @@
           <IdeaActionID>Javascript.Linters.EsLint.Fix</IdeaActionID>
           <ShortCut>'⌃⌘L'</ShortCut>
           <Description>Fix ESLint Problems</Description>
-          <Count>17</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -238,7 +238,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>91</Count>
+          <Count>92</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reformat Code">
