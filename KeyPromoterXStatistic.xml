@@ -654,7 +654,7 @@
           <IdeaActionID>Images.Editor.ZoomOut</IdeaActionID>
           <ShortCut>'⌘-' or '⌘-'</ShortCut>
           <Description>Zoom Out</Description>
-          <Count>36</Count>
+          <Count>43</Count>
         </Item>
       </Statistic>
     </option>
